@@ -1,0 +1,4 @@
+https://github.com/patil215/scrapsort/tree/master/img
+https://github.com/garythung/trashnet/tree/master/data
+http://image-net.org/index
+https://www.google.com/imghp
