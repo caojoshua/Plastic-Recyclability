@@ -1,0 +1,2 @@
+model_checkpoint_path: "/content/gdrive/My Drive/Plastic_Recyclability_Dataset/checkpoints/sequential_cp.cpkt"
+all_model_checkpoint_paths: "/content/gdrive/My Drive/Plastic_Recyclability_Dataset/checkpoints/sequential_cp.cpkt"
